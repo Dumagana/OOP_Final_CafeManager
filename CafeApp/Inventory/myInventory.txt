@@ -1,0 +1,10 @@
+coffee,0,2.99,50,true
+iced Coffee,0,3.00,47,true
+latte,0,4.50,49,true
+macchiato,0,3.50,49,true
+americano,0,3.50,10,true
+chai Latte,0,3.00,0,false
+blueberry muffin,1,2.25,10,true
+lemon raspberry muffin,1,2.25,0,false
+breakfast scone,1,2.50,15,true
+
